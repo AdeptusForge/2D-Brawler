@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Stages/Test Temporary Stage.unity
+  isLoaded: 1
+  isActive: 1
